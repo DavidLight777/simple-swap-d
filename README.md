@@ -32,3 +32,7 @@ Ensure you have Node.js installed, then run the following command to execute the
 
 ```bash
 npm install
+
+
+[![npm version](https://badge.fury.io/js/simple-swap-d.svg)](https://www.npmjs.com/package/simple-swap-d)
+
