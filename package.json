@@ -1,6 +1,6 @@
 {
   "name": "simple-swap-d",
-  "version": "2.0.1",
+  "version": "2.0.3",
   "description": "A simple template swap function for string interpolation.",
   "main": "index.js",
   "scripts": {
@@ -27,7 +27,8 @@
   },
 
   "dependencies": {
-    "simple-swap-d": "^1.0.2"
+    "simple-swap-d": "^1.0.2",
+    "text-count": "^1.0.2"
   },
   
 
